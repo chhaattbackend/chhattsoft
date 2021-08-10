@@ -303,7 +303,7 @@
     <!-- Hero Slider End -->
 
     <!-- Icon Box Start -->
-    <section class="iconbox-section-1">
+    {{-- <section class="iconbox-section-1">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -498,7 +498,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- Icon Box End -->
 
     <!-- About Start -->
